@@ -1,0 +1,16 @@
+ajs_user_id=%229bf9e687-ddc4-566d-9b37-28775e8e7c1e%22; ajs_anonymous_id=%22c2091eaf-e9b0-42f9-b4cf-6637e22472e5%22
+*
+dev_num=12
+*
+dev_num=0
+*
+dev_num=1
+*
+dev_num=2
+*
+dev_num=3
+*
+dev_num=4
+*
+dev_num=5
+*
